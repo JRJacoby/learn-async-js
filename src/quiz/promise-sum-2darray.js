@@ -27,6 +27,7 @@ function sum2DArrayParallel(arr) {
     });
 }
 
+// Example usage:
 const array2D = [
     [1, 2, 3],
     [4, 5, 6],
